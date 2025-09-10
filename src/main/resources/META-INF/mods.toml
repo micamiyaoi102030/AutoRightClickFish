@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="autorightclickfish"
+version="1.0.0"
+displayName="Auto Right Click Fish"
+authors="Bạn"
+description='''
+Client-side helper: when a bite is detected on the fishing bobber, spam right-click for a short duration.
+'''
